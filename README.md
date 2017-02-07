@@ -1,0 +1,8 @@
+# Mobile-Number-Scrapper
+A python based scarapper that traverses through all the files and displays the Indian Mobile Numbers in them.
+
+To Run:
+
+1) Clone this Repository
+2) Add your files in the directory
+3) Open terminal and run: python scrap.py
