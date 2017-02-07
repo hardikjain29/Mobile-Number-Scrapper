@@ -3,6 +3,6 @@ A python based scarapper that traverses through all the files and displays the I
 
 To Run:
 
-1) Clone this Repository
-2) Add your files in the directory
+1) Clone this Repository <br>
+2) Add your files in the directory <br>
 3) Open terminal and run: python scrap.py
